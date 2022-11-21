@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "5a72aeae4bcb1382",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5ca4deefcfb79cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbdfb8f4608d841a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ComputerScience/Readings/Concurrency Algorithms and Theories/01 Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71f837552edea50d",
+    "type": "split",
+    "children": [
+      {
+        "id": "80301a59d4b98836",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "711b2b9c29d45825",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e56629597806858b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f916c03209d6c845",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5
+  },
+  "right": {
+    "id": "cb98427e601b0416",
+    "type": "split",
+    "children": [
+      {
+        "id": "50a6698e55fccd87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f40376705a93e17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ComputerScience/Readings/Concurrency Algorithms and Theories/01 Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7bb7b1618750b38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ComputerScience/Readings/Concurrency Algorithms and Theories/01 Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d19b6f7ad1134516",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e36889482969bd40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ComputerScience/Readings/Concurrency Algorithms and Theories/01 Overview.md"
+              }
+            }
+          },
+          {
+            "id": "acd2ba0090df9643",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "active": "dbdfb8f4608d841a",
+  "lastOpenFiles": [
+    "ComputerScience/Readings/Concurrency Algorithms and Theories/01 Overview.md",
+    "ComputerScience/Readings/Concurrency Algorithms and Theories/Untitled 1.md",
+    "Untitled.md",
+    "Papers/Software Engineering/why/liWARDERRefiningCell2019.md",
+    "Papers/Software Engineering/why/liSGUARDFeatureBasedClustering2019.md",
+    "Papers/Software Engineering/why/huangWARDEREctiveSpreadsheet.md",
+    "Papers/Software Engineering/why/chenMinimizingLinkGeneration.md",
+    "Papers/Software Engineering/why/chenSimulationMightChange2022.md",
+    "Papers/Software Engineering/why/chenVISIONEvaluatingScenario2019.md",
+    "Papers/Software Engineering/why/zhangINFUSEEfficientContext.md"
+  ]
+}

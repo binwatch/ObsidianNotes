@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "2cff1513ffe20497",
+    "type": "split",
+    "children": [
+      {
+        "id": "b59c92281d19845f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "519e8515a5f552e5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ac3b2f1acc8d719",
+    "type": "split",
+    "children": [
+      {
+        "id": "01bd639e4fad9516",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6290147871dae461",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a861041020682577",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56702c7952cd89d7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc59cb7d9db005b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "81e3e0e0954be272",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c64b4f3d32984fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0795e4919e5ae7a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "091a1c4ee43637ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e6f74a101d011e98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6290147871dae461",
+  "lastOpenFiles": [
+    "Projects/NJU ICS PA/PA1.md",
+    "Graphics/Animation/CS5643 Physically-Based Animation for Computer Graphics/Introduction/Physically Based Modeling/Differential Equation Basics.md"
+  ]
+}
