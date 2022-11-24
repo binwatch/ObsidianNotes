@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d5ca4deefcfb79cf",
+        "id": "85adb2360230be9f",
         "type": "tabs",
         "children": [
           {
-            "id": "dbdfb8f4608d841a",
+            "id": "63e6defd4664cada",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComputerScience/Readings/Concurrency Algorithms and Theories/01 Overview.md",
-                "mode": "source",
+                "file": "ComputerScience/Readings/Concurrency Algorithms and Theories/02 Java Memory Models.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 200
   },
   "right": {
     "id": "cb98427e601b0416",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ComputerScience/Readings/Concurrency Algorithms and Theories/01 Overview.md",
+                "file": "ComputerScience/Readings/Concurrency Algorithms and Theories/02 Java Memory Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ComputerScience/Readings/Concurrency Algorithms and Theories/01 Overview.md",
+                "file": "ComputerScience/Readings/Concurrency Algorithms and Theories/02 Java Memory Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComputerScience/Readings/Concurrency Algorithms and Theories/01 Overview.md"
+                "file": "ComputerScience/Readings/Concurrency Algorithms and Theories/02 Java Memory Models.md"
               }
             }
           },
@@ -144,17 +144,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "dbdfb8f4608d841a",
+  "active": "63e6defd4664cada",
   "lastOpenFiles": [
-    "ComputerScience/Readings/Concurrency Algorithms and Theories/01 Overview.md",
-    "ComputerScience/Readings/Concurrency Algorithms and Theories/Untitled 1.md",
-    "Untitled.md",
-    "Papers/Software Engineering/why/liWARDERRefiningCell2019.md",
-    "Papers/Software Engineering/why/liSGUARDFeatureBasedClustering2019.md",
-    "Papers/Software Engineering/why/huangWARDEREctiveSpreadsheet.md",
-    "Papers/Software Engineering/why/chenMinimizingLinkGeneration.md",
-    "Papers/Software Engineering/why/chenSimulationMightChange2022.md",
+    "Papers/Software Engineering/why/guoGEASGenericAdaptive2017.md",
     "Papers/Software Engineering/why/chenVISIONEvaluatingScenario2019.md",
-    "Papers/Software Engineering/why/zhangINFUSEEfficientContext.md"
+    "Papers/Software Engineering/why/chenSimulationMightChange2022.md",
+    "Papers/Software Engineering/why/chenMinimizingLinkGeneration.md",
+    "Papers/Software Engineering/why/huangWARDEREctiveSpreadsheet.md",
+    "Papers/Software Engineering/why/liSGUARDFeatureBasedClustering2019.md",
+    "Papers/Software Engineering/why/liWARDERRefiningCell2019.md",
+    "ComputerScience/Readings/Concurrency Algorithms and Theories/02 Java Memory Models.md",
+    "ComputerScience/Readings/Concurrency Algorithms and Theories/Drawing 2022-11-22 20.58.34.excalidraw.md",
+    "ComputerScience/Readings/Concurrency Algorithms and Theories/01 Overview.md"
   ]
 }
