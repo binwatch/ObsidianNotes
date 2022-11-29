@@ -95,7 +95,7 @@ HMM does not have DRF-guarantee
 			- Adding / removing redundant reads may change behaviors
 
 Reading:
-- http://www.cs.umd.edu/~pugh/java/memoryModel/
+- [The Java Memory Model](http://www.cs.umd.edu/~pugh/java/memoryModel/)
 - http://openjdk.java.net/jeps/188
 
 ## See More

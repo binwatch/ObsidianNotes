@@ -7,12 +7,9 @@
 {{author}}
 {{url}}
 
-## Overview
-
-```ad-quote
-title: Abstract
 {{abstractNote}}
-```
+
+## Overview
 
 ### Background
 
